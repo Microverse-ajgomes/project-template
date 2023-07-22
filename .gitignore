@@ -1,0 +1,7 @@
+**/*.old
+**/*.OLD/
+**/*.ignore
+test.md
+node_modules
+package*
+@fonts/css/*.css
